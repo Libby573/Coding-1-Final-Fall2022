@@ -11,3 +11,7 @@
    h1{
     font-family: 'Dancing Script', cursive;
    }
+   .card text-center{
+    background-color: black;
+    color: whitesmoke;
+   }
