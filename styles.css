@@ -1,15 +1,19 @@
 .foot{
     background-color: black;
     color: #fff;
+    text-align: center;
     
    }
-   .footer{
+   footer{
      color: rgb(255, 255, 255);
      background-color: rgb(29, 28, 28);
-   
+   text-align: justify;
    }
    h1{
     font-family: 'Dancing Script', cursive;
+    color: rgba(131,37,37,1);
+    font-weight: 100;
+
    }
    .card text-center{
     background-color: black;
@@ -18,4 +22,9 @@
    .gradient2{
     background: rgb(0,0,0);
   background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(131,37,37,1) 46%);
+  }
+  p{
+    font-style: italic;
+    font-style: bold;
+    color: rgb(177, 152, 152);
   }
